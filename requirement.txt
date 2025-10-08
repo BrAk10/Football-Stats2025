@@ -1,0 +1,6 @@
+streamlit>=1.25
+selenium>=4.9
+webdriver-manager>=4.0
+pandas>=2.0
+beautifulsoup4>=4.12
+plotly>=5.10
